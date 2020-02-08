@@ -30,6 +30,4 @@ Route::get('/single-blog', function () {
 Route::get('/single-cause', function () {
     return view('single-cause');
 });
-Route::get('/single-event', function () {
-    return view('single-event');
-});
+
