@@ -78,11 +78,11 @@
 				<!-- about content -->
 				<div class="col-md-5">
 					<div class="section-title">
-						<h2 class="title">Welcome to Charity</h2>
+						<h2 class="title">Welcome to Yatagala Raja Maha Viharaya</h2>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
 					<div class="about-content">
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+						
 						<a href="#" class="primary-button">Read More</a>
 					</div>
 				</div>
@@ -103,75 +103,18 @@
 	</div>
 	<!-- /ABOUT -->
 
-	<!-- NUMBERS -->
-	<div id="numbers" class="section">
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-				<!-- number -->
-				<div class="col-md-3 col-sm-6">
-					<div class="number">
-						<i class="fa fa-smile-o"></i>
-						<h3>47k</h3>
-						<span>Donors</span>
-					</div>
-				</div>
-				<!-- /number -->
+	
 
-				<!-- number -->
-				<div class="col-md-3 col-sm-6">
-					<div class="number">
-						<i class="fa fa-heartbeat"></i>
-						<h3>154K</h3>
-						<span>Children Saved</span>
-					</div>
-				</div>
-				<!-- /number -->
-
-				<!-- number -->
-				<div class="col-md-3 col-sm-6">
-					<div class="number">
-						<i class="fa fa-money"></i>
-						<h3>785K</h3>
-						<span>Donated</span>
-					</div>
-				</div>
-				<!-- /number -->
-
-				<!-- number -->
-				<div class="col-md-3 col-sm-6">
-					<div class="number">
-						<i class="fa fa-handshake-o"></i>
-						<h3>357</h3>
-						<span>Volunteers</span>
-					</div>
-				</div>
-				<!-- /number -->
-			</div>
-			<!-- /row -->
-		</div>
-		<!-- /container -->
-	</div>
-	<!-- /NUMBERS -->
-
-	<!-- CAUSESS -->
-	<div id="causes" class="section">
-		<!-- container -->
-		<div class="container">
-			<!-- row -->
-			<div class="row">
-
-				<!-- section title -->
+				<!-- section title 
 				<div class="col-md-8 col-md-offset-2">
 					<div class="section-title text-center">
 						<h2 class="title">Our Causes</h2>
 						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 					</div>
 				</div>
-				<!-- section title -->
+			 section title -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -197,9 +140,9 @@
 						</div>
 					</div>
 				</div>
-				<!-- /causes -->
+				 /causes -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -225,9 +168,9 @@
 						</div>
 					</div>
 				</div>
-				<!-- /causes -->
+				 /causes -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -253,11 +196,11 @@
 						</div>
 					</div>/
 				</div>
-				<!-- /causes -->
+				 /causes -->
 
-				<div class="clearfix visible-md visible-lg"></div>
+				<!-- <div class="clearfix visible-md visible-lg"></div> -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -283,9 +226,9 @@
 						</div>
 					</div>
 				</div>
-				<!-- /causes -->
+				 /causes -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -311,9 +254,9 @@
 						</div>
 					</div>
 				</div>
-				<!-- /causes -->
+				 /causes -->
 
-				<!-- causes -->
+				<!-- causes 
 				<div class="col-md-4">
 					<div class="causes">
 						<div class="causes-img">
@@ -339,38 +282,38 @@
 						</div>
 					</div>
 				</div>
-				<!-- /causes -->
-			</div>
+				 /causes -->
+			<!-- </div> -->
 			<!-- /row -->
-		</div>
+		<!-- </div> -->
 		<!-- /container -->
-	</div>
+	<!-- </div> -->
 	<!-- /CAUSESS -->
 
 	<!-- CTA -->
-	<div id="cta" class="section">
+	<!-- <div id="cta" class="section"> -->
 		<!-- background section -->
-		<div class="section-bg" style="background-image: url(./img/background-1.jpg);" data-stellar-background-ratio="0.5"></div>
-		<!-- /background section -->
+		<!-- <div class="section-bg" style="background-image: url(./img/background-1.jpg);" data-stellar-background-ratio="0.5"></div>
+		/background section -->
 
 		<!-- container -->
-		<div class="container">
+		<!-- <div class="container"> -->
 			<!-- row -->
-			<div class="row">
+			<!-- <div class="row"> -->
 				<!-- cta content -->
-				<div class="col-md-offset-2 col-md-8">
-					<div class="cta-content text-center">
-						<h1>Become A Volunteer</h1>
+				<!-- <div class="col-md-offset-2 col-md-8">
+					<div class="cta-content text-center"> -->
+						<!-- <h1>Become A Volunteer</h1>
 						<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 						<a href="#" class="primary-button">Join Us Now!</a>
-					</div>
-				</div>
+					</div> -->
+				<!-- </div> -->
 				<!-- /cta content -->
-			</div>
+			<!-- </div> -->
 			<!-- /row -->
-		</div>
+		<!-- </div> -->
 		<!-- /container -->
-	</div>
+	<!-- </div> -->
 	<!-- /CTA -->
 
 	<!-- EVENTS -->
@@ -382,8 +325,8 @@
 				<!-- section title -->
 				<div class="col-md-8 col-md-offset-2">
 					<div class="section-title text-center">
-						<h2 class="title">Upcoming Events</h2>
-						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<h2 class="title">Events</h2>
+						<p class="sub-title">This section will contain details about the events that will take place at Yatagala Raja Maha Viharaya.</p>
 					</div>
 				</div>
 				<!-- /section title -->
@@ -492,15 +435,13 @@
 						<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<div class="testimonial-img">
-									<img src="./img/avatar-1.jpg" alt="">
-								</div>
-								<h3>John Doe</h3>
-								<span>Volunteer</span>
+								
+								<h3>Lord Buddha</h3>
+								
 							</div>
 							<div class="testimonial-quote">
 								<blockquote>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>No one saves us but ourselves. No one can and no one may. We ourselves must walk the path.</p>
 								</blockquote>
 							</div>
 						</div>
@@ -509,15 +450,13 @@
 						<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<div class="testimonial-img">
-									<img src="./img/avatar-2.jpg" alt="">
-								</div>
-								<h3>John Doe</h3>
-								<span>Volunteer</span>
+								
+								<h3>Sir Henry Steel Olcott</h3>
+								
 							</div>
 							<div class="testimonial-quote">
 								<blockquote>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>Everything in the world of Matter is unreal; the only reality is in the world of Spirit.</p>
 								</blockquote>
 							</div>
 						</div>
@@ -526,15 +465,13 @@
 						<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<div class="testimonial-img">
-									<img src="./img/avatar-1.jpg" alt="">
-								</div>
-								<h3>John Doe</h3>
-								<span>Volunteer</span>
+								
+								<h3>Ven. Anagarika Dharmapala</h3>
+								
 							</div>
 							<div class="testimonial-quote">
 								<blockquote>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>To save the world from ignorance by means of wisdom and love was the object of the Buddha.</p>
 								</blockquote>
 							</div>
 						</div>
@@ -543,15 +480,13 @@
 						<!-- testimonial -->
 						<div class="testimonial">
 							<div class="testimonial-meta">
-								<div class="testimonial-img">
-									<img src="./img/avatar-2.jpg" alt="">
-								</div>
-								<h3>John Doe</h3>
-								<span>Volunteer</span>
+								
+								<h3>Lord Buddha</h3>
+								
 							</div>
 							<div class="testimonial-quote">
 								<blockquote>
-									<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<p>Love the whole world as a mother loves her only child.</p>
 								</blockquote>
 							</div>
 						</div>
@@ -576,7 +511,7 @@
 				<div class="col-md-8 col-md-offset-2">
 					<div class="section-title text-center">
 						<h2 class="title">Our Blog</h2>
-						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p class="sub-title">This section will contain religious posts related to Buddhisam, Sri Lanka , Local Culture.</p>
 					</div>
 				</div>
 				<!-- /section title -->

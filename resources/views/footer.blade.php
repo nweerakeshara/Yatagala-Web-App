@@ -39,12 +39,9 @@
 				<!-- footer newsletter -->
 				<div class="col-md-4">
 					<div class="footer">
-						<h3 class="footer-title">Newsletter</h3>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt.</p>
-						<form class="footer-newsletter">
-							<input class="input" type="email" placeholder="Enter your email">
-							<button class="primary-button">Subscribe</button>
-						</form>
+						<h3 class="footer-title">Location</h3>
+						<p>Have a visit and explore one of the ancient Buddhist vihara in Galle.</p>
+						<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10ETw_UXPe09Y2nsNfSZnHJRrs_b7VREM" width="100%" height="100%"></iframe>
 						<ul class="footer-social">
 							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
 							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
@@ -62,19 +59,14 @@
 			<div id="footer-bottom" class="row">
 				<div class="col-md-6 col-md-push-6">
 					<ul class="footer-nav">
-						<li><a href="/">Home</a></li>
-						<li><a href="/about">About</a></li>
-						<li><a href="/single-cause">Causes</a></li>
-						<li><a href="/single-event">Events</a></li>
-						<li><a href="/blog">Blog</a></li>
-						<li><a href="#">Contact</a></li>
+					<li><a href="/">Solution By QSS Digital Solutions</a></li>
 					</ul>
 				</div>
 
 				<div class="col-md-6 col-md-pull-6">
 					<div class="footer-copyright">
 						<span><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+ &copy;<script>document.write(new Date().getFullYear());</script> <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com">Colorlib</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></span>
 					</div>
 				</div>
