@@ -31,9 +31,7 @@ Route::get('/single-event', function () {
     return view('single-event');
 });
 
-Route::get('/single-cause', function () {
-    return view('single-cause');
-});
+
 
 
 
