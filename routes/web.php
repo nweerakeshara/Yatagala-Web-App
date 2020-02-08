@@ -27,7 +27,5 @@ Route::get('/single-blog', function () {
     return view('single-blog');
 });
 
-Route::get('/single-cause', function () {
-    return view('single-cause');
-});
+
 
