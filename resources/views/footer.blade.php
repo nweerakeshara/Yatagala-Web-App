@@ -62,11 +62,11 @@
 			<div id="footer-bottom" class="row">
 				<div class="col-md-6 col-md-push-6">
 					<ul class="footer-nav">
-						<li><a href="#">Home</a></li>
-						<li><a href="#">About</a></li>
-						<li><a href="#">Causes</a></li>
-						<li><a href="#">Events</a></li>
-						<li><a href="#">Blog</a></li>
+						<li><a href="/">Home</a></li>
+						<li><a href="/about">About</a></li>
+						<li><a href="/single-cause">Causes</a></li>
+						<li><a href="/single-event">Events</a></li>
+						<li><a href="/blog">Blog</a></li>
 						<li><a href="#">Contact</a></li>
 					</ul>
 				</div>
