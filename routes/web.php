@@ -35,5 +35,8 @@ Route::get('/single-cause', function () {
     return view('single-cause');
 });
 
+Route::get('/about', function () {
+    return view('about');
+});
 
 
