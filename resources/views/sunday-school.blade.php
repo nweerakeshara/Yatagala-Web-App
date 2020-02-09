@@ -3,12 +3,10 @@
 	<head>
 		@extends('head')
 
-		@section('title','Single-event page')
+		@section('title','Sunday-school page')
 	</head>
 	<body>
-		<!-- HEADER -->
-		<header>
-				<!-- HEADER -->
+			<!-- HEADER -->
 
 				<!--Navigation-->
 
@@ -26,10 +24,10 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="header-content">
-								<h1>Single Event Page</h1>
+								<h1>Sunday school Page</h1>
 								<ul class="breadcrumb">
 									<li><a href="index.html">Home</a></li>
-									<li><a href="#">Events</a></li>
+									<li><a href="#">Sunday school</a></li>
 								</ul>
 							</div>
 						</div>
@@ -50,12 +48,29 @@
 					<!-- MAIN -->
 					<main id="main" class="col-md-9">
 						<!-- article -->
-						<div class="article event-details">
+						<div class="article causes-details">
 							<!-- article img -->
 							<div class="article-img">
 								<img src="./img/post-img.jpg" alt="">
 							</div>
 							<!-- article img -->
+
+							<!-- causes progress -->
+							<div class="clearfix">
+								<div class="causes-progress">
+									<div class="causes-progress-bar">
+										<div style="width: 53%;">
+											<span>53%</span>
+										</div>
+									</div>
+									<div>
+										<span class="causes-raised">Raised: <strong>52.000$</strong></span>
+										<span class="causes-goal">Goal: <strong>90.000$</strong></span>
+									</div>
+								</div>
+								<a href="#" class="primary-button causes-donate">Donate Now</a>
+							</div>
+							<!-- /causes progress -->
 
 							<!-- article content -->
 							<div class="article-content">
@@ -75,15 +90,6 @@
 								<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 							</div>
 							<!-- /article content -->
-
-							<!-- event-meta -->
-							<ul class="event-meta">
-								<li><h4>Event Details</h4></li>
-								<li><i class="fa fa-clock-o"></i><strong>Date:</strong> 24 October, 2018 | 8:00AM - 11:00PM</li>
-								<li><i class="fa fa-map-marker"></i><strong>Location:</strong> 2736 Hinkle Deegan Lake Road</li>
-								<li><i class="fa fa-ticket"></i><strong>Ticket:</strong> 50$</li>
-							</ul>
-							<!-- /event-meta -->
 
 							<!-- article tags share -->
 							<div class="article-tags-share">
@@ -299,10 +305,9 @@
 		<!-- /SECTION -->
 
 		<!-- FOOTER -->
-		@include('footer')
+			@include('footer')
 		<!-- /FOOTER -->
 
 		
-
 	</body>
 </html>

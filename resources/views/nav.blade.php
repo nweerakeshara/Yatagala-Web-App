@@ -36,19 +36,21 @@
 				<ul class="navbar-menu nav navbar-nav navbar-right">
 					<li><a href="/">Home</a></li>
 					<li><a href="/about">About</a></li>
-					<li><a href="/about">Cyber Education Center</a></li>
+					<li><a href="/cyber-edu">Cyber Education Center</a></li>
 					<li class="has-dropdown"><a href="#">Services</a>
 						<ul class="dropdown">
-							<li><a href="/single-cause">Sunday School</a></li>
-							<li><a href="/single-cause">Pirivena</a></li>
+							<li><a href="/sunday-school">Sunday School</a></li>
+							<li><a href="/pirivena">Pirivena</a></li>
 						</ul>
 					</li>
-					<li><a href="/blog">Posts</a></li>
-					<li><a href="/single-event">Events</a></li>					
-					<li><a href="/about">Co-operate Organizations</a></li>
-					<li><a href="/about">Dhayaka Sabhawa</a></li>
+					<li><a href="/posts">Posts</a></li>
+					<li><a href="/events">Events</a></li>					
+					<li><a href="/co-operate-org">Co-operate Organizations</a></li>
+					<li><a href="/dhayaka-sabhawa">Dhayaka Sabhawa</a></li>
 				</ul>
 				<!-- Nav menu -->
 			</div>
 		</nav>
 		<!-- /NAVGATION -->
+
+	

@@ -4,7 +4,7 @@
 <head>
 	@extends('head')
 
-	@section('title','Blog page')
+	@section('title','Posts page')
 
 </head>
 
@@ -15,32 +15,36 @@
 
 			@include('nav')
 			<!--/Navigation-->
+			<!--Bannner-->
+		<header>
+				
+			<!-- Page Header -->
+			<div id="page-header">
+				<!-- section background -->
+				<div class="section-bg" style="background-image: url(./img/background-2.jpg);"></div>
+				<!-- /section background -->
 
-		<!-- Page Header -->
-		<div id="page-header">
-			<!-- section background -->
-			<div class="section-bg" style="background-image: url(./img/background-2.jpg);"></div>
-			<!-- /section background -->
-
-			<!-- page header content -->
-			<div class="container">
-				<div class="row">
-					<div class="col-md-12">
-						<div class="header-content">
-							<h1>Blog Page</h1>
-							<ul class="breadcrumb">
-								<li><a href="index.html">Home</a></li>
-								<li class="active">Blog</li>
-							</ul>
+				<!-- page header content -->
+				<div class="container">
+					<div class="row">
+						<div class="col-md-12">
+							<div class="header-content">
+								<h1>Posts page</h1>
+								<ul class="breadcrumb">
+									<li><a href="index.html">Home</a></li>
+									<li class="active">Posts</li>
+								</ul>
+							</div>
 						</div>
 					</div>
 				</div>
+				<!-- /page header content -->
 			</div>
-			<!-- /page header content -->
-		</div>
-		<!-- /Page Header -->
-	</header>
-	<!-- /HEADER -->
+			<!-- /Page Header -->
+		
+		<!-- /HEADER -->
+		</header>
+			<!--/Banner-->
 
 	<!-- SECTION -->
 	<div class="section">
