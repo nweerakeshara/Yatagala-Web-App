@@ -3,7 +3,7 @@
 	<head>
 		@extends('head')
 
-		@section('title','Single-cause page')
+		@section('title','Pirivena page')
 	</head>
 	<body>
 			<!-- HEADER -->
@@ -24,10 +24,10 @@
 					<div class="row">
 						<div class="col-md-12">
 							<div class="header-content">
-								<h1>Single Cause Page</h1>
+								<h1>Pirivena Page</h1>
 								<ul class="breadcrumb">
 									<li><a href="index.html">Home</a></li>
-									<li><a href="#">Causes</a></li>
+									<li><a href="#">Pirivena</a></li>
 								</ul>
 							</div>
 						</div>

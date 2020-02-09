@@ -4,7 +4,7 @@
 
         @extends('head')
 
-         @section('title', 'About-us page')
+         @section('title', 'Dhayaka-sabhawa page')
 
     </head>
     
@@ -25,10 +25,10 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="header-content">
-                                    <h1>About page</h1>
+                                    <h1>Dhayaka sabhawa page</h1>
                                     <ul class="breadcrumb">
                                         <li><a href="index.html">Home</a></li>
-                                        <li class="active">About</li>
+                                        <li class="active">Dhayaka sabhawa</li>
                                     </ul>
                                 </div>
                             </div>
