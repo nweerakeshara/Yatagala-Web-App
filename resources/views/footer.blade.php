@@ -12,7 +12,7 @@
 						</div>
 						<p>Yatagala Raja Maha Viharaya is an old Buddhist temple complex built into rock formations featuring many statues and a serene atmosphere.</p>
 						<ul class="footer-contact">
-							<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
+							<li><i class="fa fa-map-marker"></i> Yatagala Raja Maha Viharaya, Unawatuna, Galle</li>
 							<li><i class="fa fa-phone"></i> +94 912 222 199</li>
 							<li><i class="fa fa-envelope"></i> <a href="#">Charity@email.com</a></li>
 						</ul>
