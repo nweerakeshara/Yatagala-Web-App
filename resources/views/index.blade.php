@@ -64,6 +64,35 @@
 				<!-- /home content -->
 			</div>
 			<!-- /home item -->
+
+
+		<!-- home item -->
+		<div class="home-item">
+				<!-- Background Image -->
+				<div class="section-bg" style="background-image: url(./img/background-3.jpg);"></div>
+				<!-- /Background Image -->
+
+				<!-- home content -->
+				<div class="home">
+					<div class="container">
+						<div class="row">
+							<div class="col-md-8">
+								<div class="home-content">
+									<h1>Become A Volunteer</h1>
+									<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+									<a href="#" class="primary-button">Join Us Now!</a>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+				<!-- /home content -->
+			</div>
+			<!-- /home item -->
+
+
+
+
 		</div>
 		<!-- /HOME OWL -->
 	</header>

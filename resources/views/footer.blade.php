@@ -10,10 +10,10 @@
 						<div class="footer-logo">
 							<a class="logo" href="#"><img src="./img/logo.png" alt=""></a>
 						</div>
-						<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p>Yatagala Raja Maha Viharaya is an old Buddhist temple complex built into rock formations featuring many statues and a serene atmosphere.</p>
 						<ul class="footer-contact">
 							<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
-							<li><i class="fa fa-phone"></i> 607-279-9246</li>
+							<li><i class="fa fa-phone"></i> +94 912 222 199</li>
 							<li><i class="fa fa-envelope"></i> <a href="#">Charity@email.com</a></li>
 						</ul>
 					</div>
@@ -23,7 +23,7 @@
 				<!-- footer galery -->
 				<div class="col-md-4">
 					<div class="footer">
-						<h3 class="footer-title">Galery</h3>
+						<h3 class="footer-title">Gallery</h3>
 						<ul class="footer-galery">
 							<li><a href="#"><img src="./img/galery-1.jpg" alt=""></a></li>
 							<li><a href="#"><img src="./img/galery-2.jpg" alt=""></a></li>
