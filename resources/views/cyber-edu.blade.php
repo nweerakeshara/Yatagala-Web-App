@@ -27,7 +27,7 @@
                                 <div class="header-content">
                                     <h1>Cyber Eduction Center page</h1>
                                     <ul class="breadcrumb">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="/">Home</a></li>
                                         <li class="active">Cyber Eduction Center</li>
                                     </ul>
                                 </div>

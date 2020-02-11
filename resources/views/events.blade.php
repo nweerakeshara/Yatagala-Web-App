@@ -28,7 +28,7 @@
 							<div class="header-content">
 								<h1>Events Page</h1>
 								<ul class="breadcrumb">
-									<li><a href="index.html">Home</a></li>
+									<li><a href="/">Home</a></li>
 									<li><a href="#">Events</a></li>
 								</ul>
 							</div>

@@ -2,11 +2,11 @@
 		<nav id="main-navbar">
 			<div class="container">
 				<div class="navbar-header">
-					<!-- Logo -->
+					<!-- Logo 
 					<div class="navbar-brand">
 						<a class="logo" href="/"><img src="img/logo.png" alt="logo"></a>
 					</div>
-					<!-- Logo -->
+					Logo -->
 
 					<!-- Mobile toggle -->
 					<button class="navbar-toggle-btn">
@@ -47,6 +47,7 @@
 					<li><a href="/events">Events</a></li>					
 					<li><a href="/co-operate-org">Co-operate Organizations</a></li>
 					<li><a href="/dhayaka-sabhawa">Dhayaka Sabhawa</a></li>
+					<li><a href="/contact-us">Contact Us</a></li>
 				</ul>
 				<!-- Nav menu -->
 			</div>

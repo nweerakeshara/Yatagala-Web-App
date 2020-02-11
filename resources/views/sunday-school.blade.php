@@ -26,7 +26,7 @@
 							<div class="header-content">
 								<h1>Sunday school Page</h1>
 								<ul class="breadcrumb">
-									<li><a href="index.html">Home</a></li>
+									<li><a href="/">Home</a></li>
 									<li><a href="#">Sunday school</a></li>
 								</ul>
 							</div>

@@ -28,7 +28,7 @@
 						<div class="header-content">
 							<h1>Single Blog Page</h1>
 							<ul class="breadcrumb">
-								<li><a href="index.html">Home</a></li>
+								<li><a href="/">Home</a></li>
 								<li><a href="blog.html">Blog</a></li>
 							</ul>
 						</div>

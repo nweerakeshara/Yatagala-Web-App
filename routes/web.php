@@ -55,4 +55,8 @@ Route::get('/dhayaka-sabhawa', function () {
     return view('dhayaka-sabhawa');
 });
 
+Route::get('/contact-us', function () {
+    return view('contact');
+});
+
 

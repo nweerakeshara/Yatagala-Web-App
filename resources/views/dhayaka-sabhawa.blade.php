@@ -27,7 +27,7 @@
                                 <div class="header-content">
                                     <h1>Dhayaka sabhawa page</h1>
                                     <ul class="breadcrumb">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="/">Home</a></li>
                                         <li class="active">Dhayaka sabhawa</li>
                                     </ul>
                                 </div>

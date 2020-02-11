@@ -27,7 +27,7 @@
                                 <div class="header-content">
                                     <h1>Co-operate Organizations page</h1>
                                     <ul class="breadcrumb">
-                                        <li><a href="index.html">Home</a></li>
+                                        <li><a href="/">Home</a></li>
                                         <li class="active">Co-operate Organizations</li>
                                     </ul>
                                 </div>
