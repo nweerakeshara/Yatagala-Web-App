@@ -201,6 +201,7 @@ textarea.input {
   background-size: cover;
   background-position: center;
   z-index: -1;
+  opacity: 0.9;
 }
 
 .section-title {
