@@ -43,11 +43,9 @@
 						<p>Have a visit and explore one of the ancient Buddhist vihara in Galle.</p>
 						<iframe src="https://www.google.com/maps/d/u/0/embed?mid=10ETw_UXPe09Y2nsNfSZnHJRrs_b7VREM" width="100%" height="100%"></iframe>
 						<ul class="footer-social">
-							<li><a href="#"><i class="fa fa-facebook"></i></a></li>
-							<li><a href="#"><i class="fa fa-twitter"></i></a></li>
-							<li><a href="#"><i class="fa fa-google-plus"></i></a></li>
-							<li><a href="#"><i class="fa fa-instagram"></i></a></li>
-							<li><a href="#"><i class="fa fa-pinterest"></i></a></li>
+							<li><a href="https://www.facebook.com/pages/Yatagala-Rajamaha-Viharaya-Monastry/322860947816953"><i class="fa fa-facebook"></i></a></li>
+							<li><a href="#"><i class="fa fa-youtube"></i></a></li>
+							
 						</ul>
 					</div>
 				</div>
