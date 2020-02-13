@@ -44,9 +44,14 @@
 						</ul>
 					</li>
 					<li><a href="/posts">Posts</a></li>
-					<li><a href="/events">Events</a></li>					
-					<li><a href="/co-operate-org">Co-operate Organizations</a></li>
-					<li><a href="/dhayaka-sabhawa">Dhayaka Sabhawa</a></li>
+					<li><a href="/events">Events</a></li>		
+					<li class="has-dropdown"><a href="#">Organizations</a>
+						<ul class="dropdown">
+							<li><a href="/co-operate-org">Co-operate Organizations</a></li>
+							<li><a href="/dhayaka-sabhawa">Dhayaka Sabhawa</a></li>
+						</ul>
+					</li>			
+					
 					<li><a href="/contact-us">Contact Us</a></li>
 				</ul>
 				<!-- Nav menu -->

@@ -55,9 +55,6 @@ Route::get('/', function () {
 
 });
 
-Route::get('/blank', function () {
-    return view('blank');
-});
 
 Route::get('/posts', function () {
     return view('posts');
@@ -87,13 +84,10 @@ Route::get('/cyber-edu', function () {
     return view('cyber-edu');
 });
 
-Route::get('/co-operate-org', function () {
-    return view('co-operate-org');
+Route::get('/organization', function () {
+    return view('organization');
 });
 
-Route::get('/dhayaka-sabhawa', function () {
-    return view('dhayaka-sabhawa');
-});
 
 Route::get('/contact-us', function () {
     return view('contact');
