@@ -29,9 +29,9 @@
 						<div class="row">
 							<div class="col-md-8">
 								<div class="home-content">
-									<h1>Save The Children</h1>
-									<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-									<a href="#" class="primary-button">View Causes</a>
+									<h1>2300 years old </h1>
+									<p class="lead">2300 years old Yatagala Raja Maha Viharaya is a Buddhist place of worship that has been recipient of Royal Patronage from Three Kings of Sri Lanka.</p>
+									
 								</div>
 							</div>
 						</div>
@@ -53,9 +53,9 @@
 						<div class="row">
 							<div class="col-md-8">
 								<div class="home-content">
-									<h1>Become A Volunteer</h1>
-									<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-									<a href="#" class="primary-button">Join Us Now!</a>
+									<h1>Eighteen Temples</h1>
+									<p class="lead">In the past eighteen temples were under the administration of the Viharadipathi of Yatagala Temple and the custodianship of Sithulpawwa Raja Maha Vihara and MagulMaha Vihara were also bestowed to Yatagala.</p>
+									
 								</div>
 							</div>
 						</div>
@@ -78,9 +78,9 @@
 						<div class="row">
 							<div class="col-md-8">
 								<div class="home-content">
-									<h1>Become A Volunteer</h1>
-									<p class="lead">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-									<a href="#" class="primary-button">Join Us Now!</a>
+									<h1>Services to People</h1>
+									<p class="lead">Equipped with a Cyber Education Center, Pirivena, Dhamma School and an active Dhayaka Sabhawa. </p>
+									
 								</div>
 							</div>
 						</div>
@@ -362,6 +362,7 @@
 
 				<!-- event -->
 				<div class="col-md-6">
+				@foreach($event1 as $event)
 					<div class="event">
 						<div class="event-img">
 							<a href="/single-event">
@@ -369,19 +370,23 @@
 							</a>
 						</div>
 						<div class="event-content">
-							<h3><a href="/single-event">Possit nostro aeterno eu vis, ut cum quem reque</a></h3>
+							
+							<h3><a href="/single-event">{{$event -> title}}</a></h3>
 							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i> 24 October, 2018 | 8:00AM - 11:00PM</li>
-								<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
+								<li><i class="fa fa-clock-o"></i> {{$event -> date_time}}</li>
+								<li><i class="fa fa-map-marker"></i>{{$event -> location}}</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							
+							<p>{{substr($event -> body, 0, 105)}}</p>
 						</div>
+							@endforeach
 					</div>
 				</div>
 				<!-- /event -->
 
 				<!-- event -->
 				<div class="col-md-6">
+				@foreach($event2 as $event)
 					<div class="event">
 						<div class="event-img">
 							<a href="/single-event">
@@ -389,13 +394,14 @@
 							</a>
 						</div>
 						<div class="event-content">
-							<h3><a href="/single-event">Vix fuisset tibique facilisis cu. Justo accusata ius at</a></h3>
+							<h3><a href="/single-event">{{$event -> title}}</a></h3>
 							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i> 24 October, 2018 | 8:00AM - 11:00PM</li>
-								<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
+								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
+								<li><i class="fa fa-map-marker"></i> {{$event -> location}}</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($event -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /event -->
@@ -404,6 +410,7 @@
 
 				<!-- event -->
 				<div class="col-md-6">
+				@foreach($event3 as $event)
 					<div class="event">
 						<div class="event-img">
 							<a href="/single-event">
@@ -411,19 +418,21 @@
 							</a>
 						</div>
 						<div class="event-content">
-							<h3><a href="/single-event">Possit nostro aeterno eu vis, ut cum quem reque</a></h3>
+							<h3><a href="/single-event">{{$event -> title}}</a></h3>
 							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i> 24 October, 2018 | 8:00AM - 11:00PM</li>
-								<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
+								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
+								<li><i class="fa fa-map-marker"></i>  {{$event -> location}}</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($event -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /event -->
 
 				<!-- event -->
 				<div class="col-md-6">
+				@foreach($event4 as $event)
 					<div class="event">
 						<div class="event-img">
 							<a href="/single-event">
@@ -431,13 +440,14 @@
 							</a>
 						</div>
 						<div class="event-content">
-							<h3><a href="/single-event">Vix fuisset tibique facilisis cu. Justo accusata ius at</a></h3>
+							<h3><a href="/single-event">{{$event -> title}}</a></h3>
 							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i> 24 October, 2018 | 8:00AM - 11:00PM</li>
-								<li><i class="fa fa-map-marker"></i> 2736 Hinkle Deegan Lake Road</li>
+								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
+								<li><i class="fa fa-map-marker"></i>{{$event -> location}}</li>
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($event -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /event -->
@@ -547,6 +557,8 @@
 
 				<!-- blog -->
 				<div class="col-md-4">
+				@foreach($post1 as $post)
+
 					<div class="article">
 						<div class="article-img">
 							<a href="/single-blog">
@@ -554,20 +566,22 @@
 							</a>
 						</div>
 						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">Possit nostro aeterno eu vis, ut cum quem reque</a></h3>
+							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
 							<ul class="article-meta">
-								<li>12 November 2018</li>
-								<li>By John doe</li>
-								<li>0 Comments</li>
+								<li>{{$post -> created_at}}</li>
+								<li>{{$post -> author}}</li>
+								
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($post -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /blog -->
 
 				<!-- blog -->
 				<div class="col-md-4">
+				@foreach($post2 as $post)
 					<div class="article">
 						<div class="article-img">
 							<a href="/single-blog">
@@ -575,20 +589,22 @@
 							</a>
 						</div>
 						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">Vix fuisset tibique facilisis cu. Justo accusata ius at</a></h3>
+							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
 							<ul class="article-meta">
-								<li>12 November 2018</li>
-								<li>By John doe</li>
-								<li>0 Comments</li>
+								<li>{{$post -> created_at}}</li>
+								<li>{{$post -> author}}</li>
+								
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($post -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /blog -->
 
 				<!-- blog -->
 				<div class="col-md-4">
+				@foreach($post3 as $post)
 					<div class="article">
 						<div class="article-img">
 							<a href="/single-blog">
@@ -596,14 +612,15 @@
 							</a>
 						</div>
 						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">Possit nostro aeterno eu vis, ut cum quem reque</a></h3>
+							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
 							<ul class="article-meta">
-								<li>12 November 2018</li>
-								<li>By John doe</li>
-								<li>0 Comments</li>
+								<li>{{$post -> created_at}}</li>
+								<li>{{$post -> author}}</li>
+								
 							</ul>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+							<p>{{substr($post -> body, 0, 105)}}</p>
 						</div>
+						@endforeach
 					</div>
 				</div>
 				<!-- /blog -->

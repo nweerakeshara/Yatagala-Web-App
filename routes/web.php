@@ -11,8 +11,48 @@
 |
 */
 
+use Illuminate\Support\Facades\DB;
+
 Route::get('/', function () {
-    return view('index');
+
+    $maxeventr = DB::select('SELECT * FROM events ORDER BY id DESC LIMIT 1 ');
+    
+    foreach($maxeventr as $maxevent){
+                
+        $event1 = DB::select('select * from events where id = ?',[$maxevent -> id]);
+        
+    
+        $event2 = DB::select('select * from events where id = ?',[$maxevent -> id - 1]);
+       
+    
+        $event3 = DB::select('select * from events where id = ?',[$maxevent-> id - 2]);
+
+        $event4 = DB::select('select * from events where id = ?',[$maxevent-> id - 3]);
+        
+    }
+
+
+    $maxpostr = DB::select('SELECT * FROM posts ORDER BY id DESC LIMIT 1 ');
+    
+    foreach($maxpostr as $maxpost){
+        
+        
+        $post1 = DB::select('select * from posts where id = ?',[$maxpost -> id]);
+        
+    
+        $post2 = DB::select('select * from posts where id = ?',[$maxpost -> id - 1]);
+       
+    
+        $post3 = DB::select('select * from posts where id = ?',[$maxpost-> id - 2]);
+
+        
+        
+    }
+
+    
+   
+    return view('index',compact('event1', 'event2', 'event3' , 'event4', 'post1', 'post2', 'post3'));
+
 });
 
 Route::get('/blank', function () {
@@ -59,4 +99,7 @@ Route::get('/contact-us', function () {
     return view('contact');
 });
 
-
+Route::get('/test', function () {
+    $tresult = DB::select('select * from posts');
+    return $tresult;
+});
