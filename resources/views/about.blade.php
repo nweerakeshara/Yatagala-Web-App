@@ -61,7 +61,13 @@
 
             <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
             <h3>A Brief Introduction</h3>
-                <p>Yatagala rajamaha viharaya, located in galle district near unawatuna. This rajamaha viharaya has a long history dates back to 307 BCE as the oldest Buddhist temple in galle district. Yatagala rajamaha viharaya is important to Sri Lankan Buddhist due it’s historical value, location, religious and cultural importance and social services to the people of the surrounding villages done by the temple.</p>
+                <p>Yatagala Raja Maha Viharaya dates back to 307 BCE is a Buddhist place of worship that has been recipient of Royal Patronage from Three Kings of Sri Lanka. It was established during the reign of King Devanam Piyatissa of the Anuradhapura period, when one of the first saplings from the revered Sri Maha Bodhi Tree was planted here.</p>
+                <p>It is said that, King Parakrama Bahu the Second of the Dambadeniya period ordered his Minister Devapathiraja to build the 18 riyan reclining Buddha astute in the cave of the gigantic rock outcrop, which infact gave the name.</p>
+                <p>During the days of the last King of Sri Lanka, King Sri Vikrama Rajasinghe of Kandy the temple was bestowed with Nindagam or gift of land and many other valuable gifts, which are todate in the custody of the Viharadipathi of the Temple. During the time of British Colonial Rule, the incumbent Chief Priest cultivated a strong friendship with Govner Marshall and one of the Buddhist Schools established then was named after him and still bears the name.</p>
+                <p>In the past eighteen temples were under the administration of the Viharadipathi of Yatagala Temple and the custodianship of Sithulpawwa Raja Maha Vihara and MagulMaha Vihara were also bestowed to Yatagala.</p>
+                <p>In more recent times Yatagala was declared a Sacred Area and development work was initiated to restore it to past glory.</p>
+                <p>Whilst the State developed the infrastructure facilities, the Dayakas of the temple came forward with donations to put up a Golden Fence around the Bodhi Tree and also installed a Samadhi Buddah statue under the majestic bo tree. The Cavern formed by four huge granite boulders was also turned into a Meditation Hall and granite Samadhi Buddha Statue was installed inside.</p>
+                <p>Our service to the people includes a Cyber Education Center, Pirivena, Dhamma School and an active Dhayaka Sabhawa.</p>
             </div>
 
 
