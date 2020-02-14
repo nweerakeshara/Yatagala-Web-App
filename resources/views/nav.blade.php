@@ -47,8 +47,8 @@
 					<li><a href="/events">Events</a></li>		
 					<li class="has-dropdown"><a href="#">Organizations</a>
 						<ul class="dropdown">
-							<li><a href="/co-operate-org">Co-operate Organizations</a></li>
-							<li><a href="/dhayaka-sabhawa">Dhayaka Sabhawa</a></li>
+							<li><a href="/organization">Co-operate Organizations</a></li>
+							<li><a href="/organization">Dhayaka Sabhawa</a></li>
 						</ul>
 					</li>			
 					<li><a href="/">Gallery</a></li>

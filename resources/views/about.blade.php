@@ -60,7 +60,7 @@
             <br><br>
 
             <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-            <h3>A brief introduction</h3>
+            <h3>A Brief Introduction</h3>
                 <p>Yatagala rajamaha viharaya, located in galle district near unawatuna. This rajamaha viharaya has a long history dates back to 307 BCE as the oldest Buddhist temple in galle district. Yatagala rajamaha viharaya is important to Sri Lankan Buddhist due it’s historical value, location, religious and cultural importance and social services to the people of the surrounding villages done by the temple.</p>
             </div>
 
