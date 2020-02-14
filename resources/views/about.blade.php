@@ -60,27 +60,8 @@
             <br><br>
 
             <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-            <h3>Contact Form</h3>
-            <br>
-            <form action="/action_page.php">
-            <label for="fname">Name</label>
-            <input type="text" id="name" name="name" placeholder="Your Name" required>
-            <br><br>
-            <label for="lname">Email</label><br>
-            <input type="email" id="email" name="email" placeholder="Your Email" required>   
-	        <br><br>
-    
-            <label for="lname">Contact Number</label><br>
-            <input type="text" id="cnumber" name="cnumber" placeholder="Your Email" required>   
-	        <br><br>
-    
-            <label for="subject">Message</label>
-            <textarea id="msg" name="msg" placeholder="Write something.." required style="height:200px"></textarea>
-
-            <input type="submit" value="Submit" style="background-color: #4CAF50;
-  				color: white;  padding: 12px 20px;  border: none;  border-radius: 4px;
-  				cursor: pointer;">
-            </form>
+            <h3>A brief introduction</h3>
+                <p>Yatagala rajamaha viharaya, located in galle district near unawatuna. This rajamaha viharaya has a long history dates back to 307 BCE as the oldest Buddhist temple in galle district. Yatagala rajamaha viharaya is important to Sri Lankan Buddhist due it’s historical value, location, religious and cultural importance and social services to the people of the surrounding villages done by the temple.</p>
             </div>
 
 

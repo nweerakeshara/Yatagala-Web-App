@@ -40,6 +40,45 @@
             
             <!-- /HEADER -->
             </header>
+
+            <br><br>
+            <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
+                <h3>Cyber Education Center - Hettachala Maha Pirivena</h3>
+                <h4>Hettachala Maha Pirivena Provides Following Courses,</h4>
+                <ul>
+                    <li>
+                        <h5>for Advance Level,</h5>
+                        <ul>
+                            <li>Sinhala</li>
+                            <li>English</li>
+                            <li>Pali</li>
+                            <li>Sanskrit</li>
+                            <li>Buddha Dharmaya</li>
+                            <li>Political</li>
+                        </ul>
+                    </li>
+                    <br>
+                    <li>
+                        <h5>for Prachina Medium Level,</h5>
+                        <ul>
+                            <li>Sinhala</li>
+                            <li>Pali</li>
+                            <li>Sanskrit</li>
+                        </ul>
+                    </li>
+                    <br>
+                    <li>
+                        <h5>for Prachina Final Level,</h5>
+                        <ul>
+                            <li>Sinhala</li>
+                            <li>Pali</li>
+                            <li>Sanskrit</li>
+                        </ul>
+                    </li>
+                    <br>
+                </ul>  
+            </div>
+            <br><br>
         <!--Footer-->
             @include('footer')
         <!--/Footer-->
