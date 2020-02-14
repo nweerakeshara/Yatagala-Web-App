@@ -45,6 +45,8 @@
 			<p>this school provides both Sinhala medium and English medium eduction.</p>
 			<br>
 			<p>Current principal - Ven. Padalangala Assaji Thero - Masters at university of Ruhuna,  Shasthra Vedhi university of Ruhuna, Author</p>
+			<br>
+			
 		</div>>
 
 		<br><br>

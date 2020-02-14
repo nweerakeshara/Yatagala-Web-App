@@ -6,21 +6,7 @@
 
          @section('title', 'About-us page')
 
-         <style>
-
-        #msg, #cnumber, #name,  #email {
-             width: 100%;
-             padding: 12px;
-             border: 1px solid #ccc;
-            border-radius: 4px;
-            box-sizing: border-box;
-            margin-top: 6px;
-            margin-bottom: 16px;
-            resize: vertical;
-        }
-
-
-        </style>
+        
 
     </head>
     
@@ -68,6 +54,14 @@
                 <p>In more recent times Yatagala was declared a Sacred Area and development work was initiated to restore it to past glory.</p>
                 <p>Whilst the State developed the infrastructure facilities, the Dayakas of the temple came forward with donations to put up a Golden Fence around the Bodhi Tree and also installed a Samadhi Buddah statue under the majestic bo tree. The Cavern formed by four huge granite boulders was also turned into a Meditation Hall and granite Samadhi Buddha Statue was installed inside.</p>
                 <p>Our service to the people includes a Cyber Education Center, Pirivena, Dhamma School and an active Dhayaka Sabhawa.</p>
+                <br><br>
+                <div align="center" >
+                    <iframe width="420" height="315"
+                        src="https://www.youtube.com/embed/KBKiqmb3v_s">
+                    </iframe> 
+                </div> 
+
+
             </div>
 
 
