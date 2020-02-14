@@ -264,10 +264,10 @@
                         @else
                             
                         @endif
-
-                        <h3 class="article-title" style="text-align: center"><a href="/nextevent/{{$eid}}">Next</a></h3>
-                        <h3 class="article-title" style="text-align: center"><a href="/prevevent/{{$eid}}">Prev</a></h3>
-
+						@foreach($maxeventr as $maxevent)
+                        <h3 class="article-title" style="text-align: center"><a href="/nextevent/{{$maxevent-> id}}">Next</a></h3>
+                        <h3 class="article-title" style="text-align: center"><a href="/prevevent/{{$maxevent -> id}}">Prev</a></h3>
+						@endforeach  
         <br><br>
         <!--Footer-->
             @include('footer')

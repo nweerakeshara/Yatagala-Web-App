@@ -69,7 +69,7 @@ Route::get('/events', function () {
     $maxeventr = DB::select('SELECT * FROM events ORDER BY id DESC LIMIT 1 ');
     
     foreach($maxeventr as $maxevent){
-        $eid = $maxevent -> id;        
+               
         $event1 = DB::select('select * from events where id = ?',[$maxevent -> id]);
         
     
@@ -84,7 +84,31 @@ Route::get('/events', function () {
         
     }
 
-    return view('events-template', compact ('$eid','event1', 'event2', 'event3' , 'event4', 'event5' ));
+    return view('events-template', compact ('$maxeventr','event1', 'event2', 'event3' , 'event4', 'event5' ));
+});
+
+
+Route::get('/nextevent/{id}', function () {
+
+    $maxeventr = DB::select('SELECT * FROM events ORDER BY id DESC LIMIT 1 ');
+    
+    foreach($maxeventr as $maxevent){
+               
+        $event1 = DB::select('select * from events where id = ?',[$maxevent -> id]);
+        
+    
+        $event2 = DB::select('select * from events where id = ?',[$maxevent -> id - 1]);
+       
+    
+        $event3 = DB::select('select * from events where id = ?',[$maxevent-> id - 2]);
+
+        $event4 = DB::select('select * from events where id = ?',[$maxevent-> id - 3]);
+
+        $event5 = DB::select('select * from events where id = ?',[$maxevent-> id - 4]);
+        
+    }
+
+    return view('events-template', compact ('$maxeventr','event1', 'event2', 'event3' , 'event4', 'event5' ));
 });
 
 Route::get('/sunday-school', function () {

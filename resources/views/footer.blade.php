@@ -14,7 +14,7 @@
 						<ul class="footer-contact">
 							<li><i class="fa fa-map-marker"></i> Yatagala Raja Maha Viharaya, Unawatuna, Galle</li>
 							<li><i class="fa fa-phone"></i> +94 912 222 199</li>
-							<li><i class="fa fa-envelope"></i> <a href="#">Charity@email.com</a></li>
+							<li><i class="fa fa-envelope"></i> <a href="#">yatagalaviharaya@gmail.com</a></li>
 						</ul>
 					</div>
 				</div>
