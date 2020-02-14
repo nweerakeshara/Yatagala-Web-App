@@ -89,7 +89,8 @@
 							<ul class="event-meta">
 								<li><h4>Post Details</h4></li>
 								<li><i class="fa fa-clock-o"></i><strong>Date:</strong> {{$post -> 	created_at }}</li>
-								<li><i class="fa fa-map-marker"></i><strong>Author:</strong> {{$post -> author }}</li>
+                                <li><i class="fa fa-map-marker"></i><strong>Author:</strong> {{$post -> author }}</li>
+                                <li><i class="fa fa-map-marker"></i><strong>Posted By:</strong> {{$post -> user_id }}</li>
 								
 							</ul>
 							<!-- /event-meta -->

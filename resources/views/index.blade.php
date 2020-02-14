@@ -108,11 +108,11 @@
 				<div class="col-md-5">
 					<div class="section-title">
 						<h2 class="title">Welcome to Yatagala Raja Maha Viharaya</h2>
-						<p class="sub-title">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+						<p class="sub-title">Yatagala Rajamaha Viharaya has a long history that dates back to 307 BCE as the oldest Buddhist temple in Galle district.</p>
 					</div>
 					<div class="about-content">
 						
-						<a href="#" class="primary-button">Read More</a>
+						<a href="/about" class="primary-button">Read More</a>
 					</div>
 				</div>
 				<!-- /about content -->

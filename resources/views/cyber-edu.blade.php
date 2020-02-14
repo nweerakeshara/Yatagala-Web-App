@@ -43,8 +43,8 @@
 
             <br><br>
             <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-                <h3>Cyber Education Center - Hettachala Maha Pirivena</h3>
-                <h4>Hettachala Maha Pirivena Provides Following Courses,</h4>
+                <h3>Cyber Education Center - Hettajala Maha Pirivena</h3>
+                <h4>We are a leading institute in Galle that provide our students with subject knowledge connecting Buddhist Culture with new technology. <br><br>Our Cyber Education Center Managed by Hettachala Maha Pirivena Provides Following Courses,</h4>
                 <ul>
                     <li>
                         <h5>for Advance Level,</h5>
@@ -77,6 +77,65 @@
                     </li>
                     <br>
                 </ul>  
+                
+
+                <br>
+                 <!-- blog -->
+				<div class="col-md-4">
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="#">
+                            <img src="./img/cec1.jpg" alt="">
+                        </a>
+                    </div>
+                                       
+                </div>
+            </div>
+            <!-- /blog -->   
+
+              <!-- blog -->
+				<div class="col-md-4">
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="#">
+                            <img src="./img/cec2.jpg" alt="">
+                        </a>
+                    </div>
+                   
+                    
+                </div>
+            </div>
+            <!-- /blog -->   
+
+              <!-- blog -->
+				<div class="col-md-4">
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="#">
+                            <img src="./img/cec3.jpg" alt="">
+                        </a>
+                    </div>
+                   
+                    
+                </div>
+            </div>
+            <!-- /blog -->   
+
+                <div align="center" >
+                    <iframe width="420" height="315"
+                        src="https://www.youtube.com/embed/m7Thzaa_k8E">
+                    </iframe> 
+                </div> 
+                <br><br>
+
+                <h4>Currently, we offer educational facilities to anyone interested in these subjects. Many students have improved their knowledge since 2017 by joining with us. If you are interested feel free to contact us using one of our contact methods or the Contact Us page of this web-application.</h4>  
+
+
+
+
             </div>
             <br><br>
         <!--Footer-->

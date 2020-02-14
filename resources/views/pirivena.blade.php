@@ -40,8 +40,8 @@
 		<!-- /HEADER -->
 		<br><br>
 		<div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-            <h3>Hettachala Maha Pirivena</h3>
-			<p>Hettachala Maha Pirivena started in 1891. Currently this maha pirivena provides education to both local and foriegn monks upto secondary education. Prof. Senarath Paranavithana, Ven. Baddegama Piyarathna Thero and Ven. Rabukana Siddartha Thero are the few of the well recognaized students of this pirivena.</p>
+            <h3>Hettajala Maha Pirivena</h3>
+			<p>Hettajala Maha Pirivena started in 1891. Currently this maha pirivena provides education to both local and foriegn monks upto secondary education. Prof. Senarath Paranavithana, Ven. Baddegama Piyarathna Thero and Ven. Rabukana Siddartha Thero are the few of the well recognaized students of this pirivena.</p>
 			<br>
 			<h4>Academic Stuff</h4>
 			<p>Parivenadipathi (principal) - Ven. Kehelwala Summangala Thero - Masters at university of Kelaniya, Shasthra Vedhi university of Keleniya.</p>
