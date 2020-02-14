@@ -359,10 +359,10 @@
 					</div>
 				</div>
 				<!-- /section title -->
-
+				@foreach($maxeventr as $event)
 				<!-- event -->
 				<div class="col-md-6">
-				@foreach($event1 as $event)
+				
 					<div class="event">
 						<div class="event-img">
 							<a href="/single-event">
@@ -379,78 +379,12 @@
 							
 							<p>{{substr($event -> body, 0, 105)}}</p>
 						</div>
-							@endforeach
+							
 					</div>
 				</div>
 				<!-- /event -->
-
-				<!-- event -->
-				<div class="col-md-6">
-				@foreach($event2 as $event)
-					<div class="event">
-						<div class="event-img">
-							<a href="/single-event">
-								<img src="./img/event-2.jpg" alt="">
-							</a>
-						</div>
-						<div class="event-content">
-							<h3><a href="/single-event">{{$event -> title}}</a></h3>
-							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
-								<li><i class="fa fa-map-marker"></i> {{$event -> location}}</li>
-							</ul>
-							<p>{{substr($event -> body, 0, 105)}}</p>
-						</div>
-						@endforeach
-					</div>
-				</div>
-				<!-- /event -->
-
-				<div class="clearfix visible-md visible-lg"></div>
-
-				<!-- event -->
-				<div class="col-md-6">
-				@foreach($event3 as $event)
-					<div class="event">
-						<div class="event-img">
-							<a href="/single-event">
-								<img src="./img/event-3.jpg" alt="">
-							</a>
-						</div>
-						<div class="event-content">
-							<h3><a href="/single-event">{{$event -> title}}</a></h3>
-							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
-								<li><i class="fa fa-map-marker"></i>  {{$event -> location}}</li>
-							</ul>
-							<p>{{substr($event -> body, 0, 105)}}</p>
-						</div>
-						@endforeach
-					</div>
-				</div>
-				<!-- /event -->
-
-				<!-- event -->
-				<div class="col-md-6">
-				@foreach($event4 as $event)
-					<div class="event">
-						<div class="event-img">
-							<a href="/single-event">
-								<img src="./img/event-4.jpg" alt="">
-							</a>
-						</div>
-						<div class="event-content">
-							<h3><a href="/single-event">{{$event -> title}}</a></h3>
-							<ul class="event-meta">
-								<li><i class="fa fa-clock-o"></i>{{$event -> date_time}}</li>
-								<li><i class="fa fa-map-marker"></i>{{$event -> location}}</li>
-							</ul>
-							<p>{{substr($event -> body, 0, 105)}}</p>
-						</div>
-						@endforeach
-					</div>
-				</div>
-				<!-- /event -->
+				@endforeach
+				
 			</div>
 			<!-- /row -->
 		</div>
@@ -555,10 +489,12 @@
 				</div>
 				<!-- /section title -->
 
+
+				@foreach($maxpostr as $post)
+
 				<!-- blog -->
 				<div class="col-md-4">
-				@foreach($post1 as $post)
-
+				
 					<div class="article">
 						<div class="article-img">
 							<a href="/single-blog">
@@ -574,56 +510,12 @@
 							</ul>
 							<p>{{substr($post -> body, 0, 105)}}</p>
 						</div>
-						@endforeach
+						
 					</div>
 				</div>
 				<!-- /blog -->
-
-				<!-- blog -->
-				<div class="col-md-4">
-				@foreach($post2 as $post)
-					<div class="article">
-						<div class="article-img">
-							<a href="/single-blog">
-								<img src="./img/post-2.jpg" alt="">
-							</a>
-						</div>
-						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
-							<ul class="article-meta">
-								<li>{{$post -> created_at}}</li>
-								<li>{{$post -> author}}</li>
-								
-							</ul>
-							<p>{{substr($post -> body, 0, 105)}}</p>
-						</div>
-						@endforeach
-					</div>
-				</div>
-				<!-- /blog -->
-
-				<!-- blog -->
-				<div class="col-md-4">
-				@foreach($post3 as $post)
-					<div class="article">
-						<div class="article-img">
-							<a href="/single-blog">
-								<img src="./img/post-3.jpg" alt="">
-							</a>
-						</div>
-						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
-							<ul class="article-meta">
-								<li>{{$post -> created_at}}</li>
-								<li>{{$post -> author}}</li>
-								
-							</ul>
-							<p>{{substr($post -> body, 0, 105)}}</p>
-						</div>
-						@endforeach
-					</div>
-				</div>
-				<!-- /blog -->
+				@endforeach
+				
 			</div>
 			<!-- /row -->
 		</div>
