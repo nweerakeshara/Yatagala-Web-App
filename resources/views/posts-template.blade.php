@@ -44,7 +44,7 @@
                                     <h1>About page</h1>
                                     <ul class="breadcrumb">
                                         <li><a href="/">Home</a></li>
-                                        <li class="active">About</li>
+                                        <li class="active">Posts Page</li>
                                     </ul>
                                 </div>
                             </div>
@@ -59,29 +59,51 @@
 
             <br><br>
 
-            <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-            <h3>Contact Form</h3>
-            <br>
-            <form action="/action_page.php">
-            <label for="fname">Name</label>
-            <input type="text" id="name" name="name" placeholder="Your Name" required>
             <br><br>
-            <label for="lname">Email</label><br>
-            <input type="email" id="email" name="email" placeholder="Your Email" required>   
-	        <br><br>
-    
-            <label for="lname">Contact Number</label><br>
-            <input type="text" id="cnumber" name="cnumber" placeholder="Your Email" required>   
-	        <br><br>
-    
-            <label for="subject">Message</label>
-            <textarea id="msg" name="msg" placeholder="Write something.." required style="height:200px"></textarea>
+            @if(count($postlist) > 0)
+            @foreach($postlist as $post)
+                    <div class="article event-details" style="padding-left:20%; padding-right:20%">
+							<!-- article img -->
+							<div class="article-img">
+								<img src="./img/post-img.jpg" alt="">
+							</div>
+							<!-- article img -->
 
-            <input type="submit" value="Submit" style="background-color: #4CAF50;
-  				color: white;  padding: 12px 20px;  border: none;  border-radius: 4px;
-  				cursor: pointer;">
-            </form>
-            </div>
+							<!-- article content -->
+							<div class="article-content">
+								<!-- article title -->
+								<h2 class="article-title">{{$post -> title}}</h2>
+								<!-- /article title -->
+
+								<!-- article meta -->
+								<ul class="article-meta">
+									
+								</ul>
+								<!-- /article meta -->
+
+								<p>{{$post -> body}}</p>
+							</div>
+							<!-- /article content -->
+
+							<!-- event-meta -->
+							<ul class="event-meta">
+								<li><h4>Post Details</h4></li>
+								<li><i class="fa fa-clock-o"></i><strong>Date:</strong> {{$post -> 	created_at }}</li>
+								<li><i class="fa fa-map-marker"></i><strong>Author:</strong> {{$post -> author }}</li>
+								
+							</ul>
+							<!-- /event-meta -->
+
+							
+						</div>
+                        <!-- /article -->
+                        @endforeach
+                        @else
+                            
+                        @endif
+
+
+
 
 
         <br><br>

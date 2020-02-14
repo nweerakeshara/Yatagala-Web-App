@@ -17,36 +17,14 @@ use Illuminate\Support\Facades\DB;
 Route::get('/', 'IndexController@index');
 
 
-Route::get('/posts', function () {
-    return view('posts');
-});
+Route::get('/posts', 'PostController@index'); 
+ 
 
 Route::get('/single-blog', function () {
     return view('single-blog');
 });
 
-Route::get('/events', function () {
-
-    $maxeventr = DB::select('SELECT * FROM events ORDER BY id DESC LIMIT 1 ');
-    
-    foreach($maxeventr as $maxevent){
-               
-        $event1 = DB::select('select * from events where id = ?',[$maxevent -> id]);
-        
-    
-        $event2 = DB::select('select * from events where id = ?',[$maxevent -> id - 1]);
-       
-    
-        $event3 = DB::select('select * from events where id = ?',[$maxevent-> id - 2]);
-
-        $event4 = DB::select('select * from events where id = ?',[$maxevent-> id - 3]);
-
-        $event5 = DB::select('select * from events where id = ?',[$maxevent-> id - 4]);
-        
-    }
-
-    return view('events-template', compact ('event1', 'event2', 'event3' , 'event4', 'event5' ));
-});
+Route::get('/events', 'EventController@index');
 
 
 Route::get('/sunday-school', function () {
