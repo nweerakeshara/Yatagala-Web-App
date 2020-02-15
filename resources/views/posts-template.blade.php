@@ -41,7 +41,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <div class="header-content">
-                                    <h1>About page</h1>
+                                    <h1>Posts page</h1>
                                     <ul class="breadcrumb">
                                         <li><a href="/">Home</a></li>
                                         <li class="active">Posts Page</li>

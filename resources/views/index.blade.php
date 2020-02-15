@@ -119,10 +119,9 @@
 
 				<!-- about video -->
 				<div class="col-md-offset-1 col-md-6">
-					<a href="#" class="about-video">
-							<i class="play-icon fa fa-play"></i>
-							<img src="./img/about.jpg" alt="">
-						</a>
+					<iframe width="420" height="315"
+                        src="https://www.youtube.com/embed/rr5MF60wIXk"> 
+                    </iframe> 
 				</div>
 				<!-- /about video -->
 			</div>
