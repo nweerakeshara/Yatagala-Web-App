@@ -51,7 +51,7 @@
 							<li><a href="/organization">Dhayaka Sabhawa</a></li>
 						</ul>
 					</li>			
-					<li><a href="/">Gallery</a></li>
+					<li><a href="/gallery">Gallery</a></li>
 					<li><a href="/contact-us">Contact Us</a></li>
 					
 				</ul>

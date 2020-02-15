@@ -52,7 +52,6 @@ Route::get('/contact-us', function () {
     return view('contact');
 });
 
-Route::get('/test', function () {
-    $tresult = DB::select('select * from posts');
-    return $tresult;
+Route::get('/gallery', function () {
+    return view('gallery');
 });
