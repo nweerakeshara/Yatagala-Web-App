@@ -6,18 +6,7 @@
 
          @section('title', 'About-us page')
 
-         <style>
-
-        #msg, #cnumber, #name,  #email {
-             width: 100%;
-             padding: 12px;
-             border: 1px solid #ccc;
-            border-radius: 4px;
-            box-sizing: border-box;
-            margin-top: 6px;
-            margin-bottom: 16px;
-            resize: vertical;
-        }
+        
 
 
         </style>
@@ -184,7 +173,7 @@
                 <div class="article">
                     <div class="article-img">
                         <a href="/single-blog">
-                            <img src="./img/gal9.png" alt="">
+                            <img src="./img/gal9.jpg" alt="">
                         </a>
                     </div>
                     
@@ -213,7 +202,7 @@
                 <div class="article">
                     <div class="article-img">
                         <a href="/single-blog">
-                            <img src="./img/gal1.jpg" alt="">
+                            <img src="./img/gal11.jpg" alt="">
                         </a>
                     </div>
                     
@@ -226,7 +215,7 @@
                 <div class="article">
                     <div class="article-img">
                         <a href="/single-blog">
-                            <img src="./img/gal2.jpg" alt="">
+                            <img src="./img/gal12.jpg" alt="">
                         </a>
                     </div>
                     

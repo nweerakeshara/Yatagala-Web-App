@@ -42,13 +42,13 @@
             </header>
             <br><br>
             <div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
-                <h3>Co-operate Orgnaizations</h3>
+                <h3>Co-operate Organizations</h3>
                 <ul>
                     <li>Young Buddist Society</li>
                     <li>Upasaka Upasika Society</li>
                     <li>Kulagana Society</li>
-                    <li>Sithul Pawwa Asala Maha Dhansal Society</li>
-                    <li>Daham Pasal Sanwardana Samithiya</li>
+                    <li>Sithul Pawwa Esala Maha Dhansal Society</li>
+                    <li>Dahamma School Development Society</li>
                 </ul>
             </div>
             <br><br>
@@ -56,7 +56,7 @@
                 <h3>Dhayaka Sabhawa</h3>
                 <ul>
                     <li>President - Wing commander Keerthi Kanahara Arachchi</li>
-                    <li>Secretry - Dr. Keerthi Kalahe</li>
+                    <li>Secretry - Mr. Keerthi Kalahe</li>
                     <li>Tresurar - Mr. Saman Jayaneththi</li>
                 </ul>
             </div>

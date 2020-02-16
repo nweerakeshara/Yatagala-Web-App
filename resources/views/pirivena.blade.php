@@ -41,11 +41,11 @@
 		<br><br>
 		<div class="container" style="border-radius:5px; background-color: #f2f2f2;  padding: 20px; ">
             <h3>Hettajala Maha Pirivena</h3>
-			<p>Hettajala Maha Pirivena started in 1891. Currently this maha pirivena provides education to both local and foriegn monks upto secondary education. Prof. Senarath Paranavithana, Ven. Baddegama Piyarathna Thero and Ven. Rabukana Siddartha Thero are the few of the well recognaized students of this pirivena.</p>
+			<p>Hettajala Maha Pirivena which was started in 1891 is one of the leading Pirivenas in Sri lanka. Currently this maha pirivena provides education to both local and foriegn bikkus upto secondary education. <br> Prof. Senarath Paranavithana, Ven. Baddegama Piyarathna Thero and Ven. Rabukana Siddartha Thero are the some of the well recognaized students of this great pirivena.</p>
 			<br>
 			<h4>Academic Stuff</h4>
-			<p>Parivenadipathi (principal) - Ven. Kehelwala Summangala Thero - Masters at university of Kelaniya, Shasthra Vedhi university of Keleniya.</p>
-			<p>Ven. Padalangala Assaji Thero - Lecturer - Masters at university of Ruhuna,  Shasthra Vedhi university of Ruhuna, Author</p>
+			<p>Parivenadipathi (principal) - Ven. Kehelwala Summangala Thero - Masters at university of Kelaniya, Shasthra Vedhi at university of Keleniya.</p>
+			<p>Ven. Padalangala Assaji Thero - Lecturer - Masters at university of Ruhuna,  Shasthra Vedhi at university of Ruhuna, A well reputed Author</p>
 			<p>Mr. Sandaruwan Weerasinghe - English medium, BA, MA</p>
 		</div>
 		<br><br>
