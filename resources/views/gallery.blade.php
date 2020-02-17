@@ -73,7 +73,7 @@
                 <div class="article">
                     <div class="article-img">
                         <a href="/single-blog">
-                            <img src="./img/gal2.jpg" alt="">
+                            <img src="./img/gal2.jpg" >
                         </a>
                     </div>
                     

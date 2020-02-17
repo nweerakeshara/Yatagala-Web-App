@@ -239,7 +239,7 @@
 								</blockquote>
 							</div>
 						</div>
-						<!-- /testimonial -->
+						
 
 						<!-- testimonial -->
 						<div class="testimonial">

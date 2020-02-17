@@ -53,8 +53,57 @@
                 <p>In the past eighteen temples were under the administration of the Viharadipathi of Yatagala Temple and the custodianship of Sithulpawwa Raja Maha Vihara and MagulMaha Vihara were also bestowed to Yatagala.</p>
                 <p>In more recent times Yatagala was declared a Sacred Area and development work was initiated to restore it to past glory.</p>
                 <p>Whilst the State developed the infrastructure facilities, the Dayakas of the temple came forward with donations to put up a Golden Fence around the Bodhi Tree and also installed a Samadhi Buddah statue under the majestic bo tree. The Cavern formed by four huge granite boulders was also turned into a Meditation Hall and granite Samadhi Buddha Statue was installed inside.</p>
-                <p>Our service to the people includes a Cyber Education Center, Pirivena, Dhamma School and an active Dhayaka Sabhawa.</p>
+                <p>Currrently Ven. Kirthi Sri Rathanasara Matarambha Hemarathnabhidhana thero act as the viharadhi pathi of this great viharaya.</p>
+            
+    
+                <p>We provide many services to the nation as one of the leading Buddhist places in Sri lanka. Our services include a Cyber Education Center, Pirivena, Dhamma School and an active Dhayaka Sabhawa. </p>
                 <br><br>
+                
+                <div class="col-md-4" align="center" >
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="/single-blog">
+                        <img src="./img/gal3.jpg" alt="">
+                        </a>
+                    </div>
+                    
+                    <p>Yatagala Premises</p>
+                    
+                </div>
+            </div>
+
+                <div class="col-md-4" align="center">
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="/single-blog">
+                            <img src="./img/rathanathero.jpg" alt="">
+                        </a>
+                    </div>
+
+                    <p>Ven. Kirthi Sri Rathanasara Matarambha Hemarathnabhidhana thero</p>
+                    
+                    
+                </div>
+            </div>
+
+            
+
+
+            <div class="col-md-4" align="center" >
+				
+                <div class="article">
+                    <div class="article-img">
+                        <a href="/single-blog">
+                        <img src="./img/passedmonks.jpg" alt="">
+                        </a>
+                    </div>
+                    <p>අපවත්වූ ජ්‍යෙෂ්ඨ  හිමිවරු</p>
+                    
+                </div>
+            </div>
+            <br>
                 <div align="center" >
                     <iframe width="420" height="315"
                         src="https://www.youtube.com/embed/KBKiqmb3v_s">
