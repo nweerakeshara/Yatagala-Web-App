@@ -156,13 +156,13 @@
 				
 					<div class="event">
 						<div class="event-img">
-							<a href="/single-event">
+							<a href="/events">
 								<img src="./img/event-1.jpg" alt="">
 							</a>
 						</div>
 						<div class="event-content">
 							
-							<h3><a href="/single-event">{{$event -> title}}</a></h3>
+							<h3><a href="/events">{{$event -> title}}</a></h3>
 							<ul class="event-meta">
 								<li><i class="fa fa-clock-o"></i> {{$event -> date_time}}</li>
 								<li><i class="fa fa-map-marker"></i>{{$event -> location}}</li>
@@ -288,12 +288,12 @@
 				
 					<div class="article">
 						<div class="article-img">
-							<a href="/single-blog">
+							<a href="/posts">
 								<img src="./img/post-1.jpg" alt="">
 							</a>
 						</div>
 						<div class="article-content">
-							<h3 class="article-title"><a href="/single-blog">{{$post -> title}}</a></h3>
+							<h3 class="article-title"><a href="/posts">{{$post -> title}}</a></h3>
 							<ul class="article-meta">
 								<li>{{$post -> created_at}}</li>
 								<li>{{$post -> author}}</li>

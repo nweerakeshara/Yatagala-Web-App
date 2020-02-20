@@ -56,7 +56,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal1.jpg" alt="">
                         </a>
                     </div>
@@ -72,7 +72,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal2.jpg" >
                         </a>
                     </div>
@@ -88,7 +88,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal3.jpg" alt="">
                         </a>
                     </div>
@@ -102,7 +102,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal4.jpg" alt="">
                         </a>
                     </div>
@@ -117,7 +117,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal5.jpg" alt="">
                         </a>
                     </div>
@@ -131,7 +131,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal6.jpg" alt="">
                         </a>
                     </div>
@@ -145,7 +145,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal7.jpg" alt="">
                         </a>
                     </div>
@@ -158,7 +158,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal8.jpg" alt="">
                         </a>
                     </div>
@@ -172,7 +172,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal9.jpg" alt="">
                         </a>
                     </div>
@@ -186,7 +186,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal10.jpg" alt="">
                         </a>
                     </div>
@@ -201,7 +201,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal11.jpg" alt="">
                         </a>
                     </div>
@@ -214,7 +214,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/gal12.jpg" alt="">
                         </a>
                     </div>

@@ -63,7 +63,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                         <img src="./img/gal3.jpg" alt="">
                         </a>
                     </div>
@@ -77,7 +77,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                             <img src="./img/rathanathero.jpg" alt="">
                         </a>
                     </div>
@@ -95,7 +95,7 @@
 				
                 <div class="article">
                     <div class="article-img">
-                        <a href="/single-blog">
+                        <a href="/">
                         <img src="./img/passedmonks.jpg" alt="">
                         </a>
                     </div>
