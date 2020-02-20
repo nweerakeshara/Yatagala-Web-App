@@ -20,9 +20,6 @@ Route::get('/', 'IndexController@index');
 Route::get('/posts', 'PostController@index'); 
  
 
-Route::get('/single-blog', function () {
-    return view('single-blog');
-});
 
 Route::get('/events', 'EventController@index');
 
