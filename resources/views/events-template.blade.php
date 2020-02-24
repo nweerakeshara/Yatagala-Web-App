@@ -4,7 +4,7 @@
 
         @extends('head')
 
-         @section('title', 'About-us page')
+         @section('title', 'Events page')
 
        
 
@@ -83,6 +83,8 @@
 						</div>
                         <!-- /article -->
                         @endforeach
+
+                        {{ $eventlist->links() }}
                         @else
                             
                         @endif

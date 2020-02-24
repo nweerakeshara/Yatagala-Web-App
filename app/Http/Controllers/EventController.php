@@ -10,7 +10,8 @@ class EventController extends Controller
 {
 
     public function index(){
-        $eventlist = DB::select('SELECT * FROM events ORDER BY id  ');
+        /*$eventlist = DB::select('SELECT * FROM events ORDER BY id  ');*/
+        $eventlist = DB::table('events')->orderBy('id', 'desc')->paginate(5);
        
 
         return view('events-template', compact ('eventlist'));

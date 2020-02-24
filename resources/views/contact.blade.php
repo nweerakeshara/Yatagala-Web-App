@@ -4,7 +4,7 @@
 
         @extends('head')
 
-         @section('title', 'About-us page')
+         @section('title', 'Contact us page')
 
          <style>
 

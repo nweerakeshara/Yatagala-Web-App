@@ -4,7 +4,7 @@
 
         @extends('head')
 
-         @section('title', 'About-us page')
+         @section('title', 'Posts page')
 
          <style>
 
@@ -99,6 +99,10 @@
 						</div>
                         <!-- /article -->
                         @endforeach
+
+                        {{ $postlist->links() }}
+
+
                         @else
                             
                         @endif
